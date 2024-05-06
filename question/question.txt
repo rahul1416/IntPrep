@@ -1,0 +1,11 @@
+1.Can you explain your experience in building and fine-tuning chatbots and NLP systems, specifically within the context of the travel domain?
+2.How familiar are you with transformer models such as OpenAI and Hugging Face, and can you discuss any projects where you utilized these models?
+3.In your opinion, what are the key challenges in architecting and designing a chatbot for corporate travel, and how would you approach addressing them?
+4.Describe your approach to curating, testing, and maintaining datasets for travel chat conversations. How do you ensure data quality and relevance?
+5.Can you discuss a time when you had to determine intents and create maintainable chat workflows for a complex system? What were some considerations you had to take into account?
+6.How do you ensure scalability and performance when implementing database models for a platform that serves multiple customers with varying needs?
+7.Have you worked on integrating AI-driven platforms into various communication channels such as email, Slack, and SMS? If so, what were some challenges you encountered, and how did you overcome them?
+8.What strategies do you employ to ensure high-quality code, including comments, testing, and documentation, in your software engineering projects?
+9.Could you walk us through your experience with AWS infrastructure management and continuous integration/continuous deployment (CI/CD) processes?
+10.Can you provide examples of algorithms you've implemented to determine ideal travel itineraries for corporate travelers? How do you balance accuracy and efficiency in these algorithms?
+
